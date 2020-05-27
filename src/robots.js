@@ -1,63 +1,75 @@
-export const robots = [
+const robots = [
     {
       id: 1,
-      name: 'Leanne Graham',
-      username: 'Bret',
-      email: 'Sincere@april.biz'
+      name: 'Faran Mohammad',
+      username: 'faran._.heit',
+      email: 'ffaranm15@gmail.com'
     },
     {
       id: 2,
-      name: 'Ervin Howell',
-      username: 'Antonette',
-      email: 'Shanna@melissa.tv'
+      name: 'Sidra Rizwan',
+      username: 'sidrar',
+      email: 'sidrar2408@gmail.com'
     },
     {
       id: 3,
-      name: 'Clementine Bauch',
-      username: 'Samantha',
-      email: 'Nathan@yesenia.net'
+      name: 'Fariha Fatima',
+      username: 'farihaf',
+      email: 'farihaf@iul.ac.in'
     },
     {
       id: 4,
-      name: 'Patricia Lebsack',
-      username: 'Karianne',
-      email: 'Julianne.OConner@kory.org'
+      name: 'Subhana Fatima',
+      username: 'subhanaf',
+      email: 'subhanaf@iul.ac.in'
     },
     {
       id: 5,
-      name: 'Chelsey Dietrich',
-      username: 'Kamren',
-      email: 'Lucio_Hettinger@annie.ca'
+      name: 'Abid Rahman',
+      username: 'chunna',
+      email: 'arabid@gmail.com'
     },
     {
       id: 6,
-      name: 'Mrs. Dennis Schulist',
-      username: 'Leopoldo_Corkery',
-      email: 'Karley_Dach@jasper.info'
+      name: 'Hera Fatima',
+      username: 'hera',
+      email: 'iamfatimasiddiqui@gmail.com'
     },
     {
       id: 7,
-      name: 'Kurtis Weissnat',
-      username: 'Elwyn.Skiles',
-      email: 'Telly.Hoeger@billy.biz'
+      name: 'Farheen Husain',
+      username: 'farheenify',
+      email: 'farheenhu@gmail.com'
     },
     {
       id: 8,
-      name: 'Nicholas Runolfsdottir V',
-      username: 'Maxime_Nienow',
-      email: 'Sherwood@rosamond.me'
+      name: 'Sakshi Panday',
+      username: 'taku',
+      email: 'sakship@gmail.com'
     },
     {
       id: 9,
-      name: 'Glenna Reichert',
-      username: 'Delphine',
-      email: 'Chaim_McDermott@dana.io'
+      name: 'Fazal Mahmood',
+      username: 'fazal',
+      email: 'ifazalmahmood@gmail.com'
     },
     {
       id: 10,
-      name: 'Clementina DuBuque',
-      username: 'Moriah.Stanton',
-      email: 'Rey.Padberg@karina.biz'
+      name: 'Deepak Shakya',
+      username: 'deepakshakya',
+      email: 'deepak@gmail.com'
+    },
+    {
+      id: 11,
+      name: 'Amber Jalil',
+      username: 'painaj',
+      email: 'painaj@gmail.com'
+    },
+    {
+      id: 12,
+      name: 'Sakina Mehdi',
+      username: 'sakina',
+      email: 'zoyam@gmail.com'
     }
   ];
-  
+  module.exports={robots}
